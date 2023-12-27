@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "moduleResolution": "Bundler",
+    "module": "ES2022",
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
+    "declaration": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": ".dist",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "incremental": true
+  }
+}

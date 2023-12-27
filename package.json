@@ -1,0 +1,14 @@
+{
+  "name": "opbrc",
+  "scripts": {
+    "start": "node -r esbuild-register index.ts"
+  },
+  "author": "Ivan Lagunovsky <ivan.lagunovsky@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "esbuild-register": "^3.5.0",
+    "ethers": "^5.7.2",
+    "typescript": "^5.3.3"
+  }
+}

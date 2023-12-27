@@ -4,7 +4,7 @@ import { parseUnits } from 'ethers/lib/utils'
 
 
 const rpc = 'https://opbnb-mainnet-rpc.bnbchain.org'
-const pk = '' // private key
+const pk = '0xPRIVATEKEY' // private key
 const batch = 6 // how many transactions to send in concurrent
 const limit = Infinity // how many transactions to send in total
 
